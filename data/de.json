@@ -1,0 +1,202 @@
+{
+  "texts": {
+    "@title": {
+      "title": "Die Mathematik ist überall"
+    },
+    "@idm2020": {
+      "title": "Internationaler Tag der Mathematik 2020"
+    },
+    "@learn_more": {
+      "title": "Erfahren Sie mehr über den Internationalen Tag der Mathematik"
+    },
+    "@description": {
+      "title": "Feiern Sie den Internationalen Tag der Mathematik und entdecken Sie die Mathematik, wohin Sie auch schauen."
+    },
+    "@footer_imu": {
+      "title": "Der Internationale Tag der Mathematik ist ein Projekt unter der Leitung der [Internationalen Mathematischen Union] (https://www.mathunion.org/)."
+    },
+    "@footer_kts": {
+      "title": "Die IDM-Website wurde von [IMAGINARY](https://about.imaginary.org) mit Unterstützung der [Klaus Tschira Stiftung](https://www.klaus-tschira-stiftung.de/) erstellt."
+    },
+    "@footer_mathigon": {
+      "title": "Konzept und einige Texte erstellt von [Philipp Legner (Mathigon)] (http://mathigon.org/)."
+    },
+    "@footer_license": {
+      "title": "Unter Lizenz der Creative Commons Attribution-ShareAlike 4.0 International ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))"
+    },
+    "@main_site": {
+      "title": "Startseite"
+    },
+    "@impressum": {
+      "title": "Impressum"
+    },
+    "@privacy_policy": {
+      "title": "Datenschutzbestimmungen"
+    },
+    "epidemics_analysis": {
+      "title": "Epidemie-Analyse",
+      "body": "Wenn eine neue Epidemie beginnt, ist zu befürchten, dass diese nicht aufhört, solange es neue Fälle gibt. Das ist allerdings nicht was die Mathematik sagt. Die wichtigste Größe ist das Reproduktionsverhältnis, R_0, das der mittleren Anzahl aller infizierten Personen entspricht. Wenn R_0 < 1, stirbt die Epidemie, wohingegen sie sich bei R_0 > 1 weiter ausbreitet. Die Kenntnis von R_0 bestimmt die Strategie zur Bekämpfung der Epidemie. Insbesondere im Falle begrenzter Ressourcen (z.B. nicht genügend Impfstoffe für alle) besteht das Ziel darin, diese Ressourcen zu nutzen, um R_0 unter 1 zu senken.",
+      "links": "https://www.mathscareers.org.uk/article/number-one-crime-fighter/"
+    },
+    "discovering_core": {
+      "title": "Den inneren Erdkern entdecken",
+      "body": "Eine dänische Mathematikerin, Inge Lehmann, entdeckte 1936 den inneren Kern der Erde. Sie arbeitete für das dänische Geodätische Institut und hatte Zugang zu Daten über die seismischen Wellen, die von Erdbeben in der Ferne erzeugt und an seismischen Stationen rund um die Erde aufgezeichnet wurden. Die beobachteten Daten stimmten nicht mit dem damals verwendeten Modell des Erdinneren überein. Sie schlug ein neues, mit den Beobachtungen kompatibles Modell vor, bei dem der Kern in zwei Teile geteilt wird, einen schwereren inneren Kern, der von einem äußeren Kern umgeben ist. Einige seismische Wellen prallen auf den inneren Kern ab, von dem heute bekannt ist, dass er eisenhaltig ist.",
+      "links": "http://mpe.dimacs.rutgers.edu/2014/02/19/how-inge-lehmann-discovered-the-inner-core-of-the-earth/"
+    },
+    "patterns_nature": {
+      "title": "Muster in der Natur",
+      "body": "Wie werden Muster in der Natur erzeugt? Warum ist der Tiger gestreift, während der Leopard Flecken hat? Ein einziges chemisches Modell der Reaktionsdiffusion erzeugt alle tierischen Fellmuster. Zwei Chemikalien, ein Aktivator und ein Inhibitor, interagieren und diffundieren. Das mathematische Modell erklärt, dass das an einem Embryo beobachtete Muster von der Größe und Form des Embryos abhängt, zum Zeitpunkt des Reaktionsdiffusionbeginns. Ähnliche Reaktions-Diffusionsmodelle erklären Muster von Muscheln und auch Vegetationsmuster in semi-ariden Regionen. Es ist Alan Turing, der 1952 die chemische Basis der Morphogenese vorgeschlagen hat.",
+      "links": "http://mpe.dimacs.rutgers.edu/2013/08/23/patterns-on-earth/"
+    },
+    "detecting_frauds": {
+      "title": "Betrug aufdecken",
+      "body": "Versuche Folgendes: Betrachte jede beliebige Zahl, die du um dich herum siehst und notiere die erste signifikante Ziffer, d.h. die ganz linke, von Null abweichende Ziffer. Zum Beispiel ist die erste signifikante Stelle von 23,567 die 2, und die von 0,00345 die 3. Du solltest mit einer Wahrscheinlichkeit von etwa 30% die Zahl 1 und mit nur 4,5% die Zahl 9 erhalten. Dieses überraschende Phänomen wird Benfords Gesetz genannt. Es ist ein probabilistisches Gesetz. Meistens folgen Zahlen in Finanzberichten diesem Gesetz, welches einen Betrugstest ermöglicht und überprüft, ob jemand die Daten manipuliert hat, ohne darauf zu achten, das Gesetz zu befolgen.",
+      "links": "http://blog.kleinproject.org/?p=1093"
+    },
+    "packing_oranges": {
+      "title": "Orangen stapeln",
+      "body": "Wie kann man kugelförmige Objekte, zum Beispiel Orangen, am dichtesten stapeln? Johannes Kepler war der Meinung, dass man die Lösung im Obstladen beobachten könne: Die Mittelpunkte der Kugeln (Orangen)  befinden sich an den Punkten des flächenzentrierten kubischen Gitters. Keplers Vermutung wurde erst 1998 von Thomas Hales bewiesen, Details wurden erst 2006 veröffentlicht. Es handelt sich um einen umfangreichen computergestützten Beweis und das Programm ist für jedermann öffentlich, um die Details zu überprüfen. Die Verwendung der dichtesten Art der Verpackung von Gegenständen ist in der Industrie wichtig, da man nicht will, dass sich der Inhalt der Schachtel bewegt, wenn die Schachtel geschüttelt wird.",
+      "links": "https://www.scinexx.de/news/technik/keplers-vermutung-endgueltig-bewiesen/"
+    },
+    "four_colors_suffice": {
+      "title": "Vier Farben reichen aus",
+      "body": "Wie viele Farben sind mindestens nötig, um eine Karte so einzufärben, dass keine zwei Länder mit einer gemeinsamen Grenze die gleiche Farbe haben? Drei Farben reichen dafür nicht aus, die Mindestanzahl der Farben beträgt vier: Dies ist der Vier-Farben-Satz, der 1976 von Kenneth Appel und Wolfgang Haken bewiesen wurde. Dieses Theorem war das erste mit einem computergestützten Beweis.",
+      "links": "http://blog.kleinproject.org/?p=1205"
+    },
+    "artificial_intelligence": {
+      "title": "Künstliche Intelligenz",
+      "body": "Woher kommt ihr plötzlicher Erfolg? Traditionell bedeutete das Programmieren eines Roboters, dass man Anweisungen gibt, was der Roboter tun sollte. Aber uns Menschen wird nicht alles beigebracht, was wir tun können. Wir lernen selbst. Ein Kind z.B., das viele Katzen gesehen hat, kann erkennen, dass ein Tier eine Katze ist, auch wenn dieses Tier anders aussieht, als alle zuvor gesehenen Katzen. Inzwischen können Roboter dasselbe. Der jüngste Erfolg der künstlichen Intelligenz beruht auf der Tatsache, dass die Roboter darauf programmiert sind, zu lernen. Dieser Lernprozess wird durch die riesigen vorhandenen Datenmengen ermöglicht.",
+      "links": ""
+    },
+    "past_climates": {
+      "title": "Das vergangene Klima der Erde",
+      "body": "In der Vergangenheit hat die Erde Zeiten der Vergletscherung und des sehr heißen Klimas durchlaufen, wie aus geologischen Daten ersichtlich ist. Die Mathematik kann helfen, diese vergangenen Klimata (Paläoklima) zu erklären. Die Anziehungskraft des Jupiters z. B. stört die Umlaufbahn der Erde um die Sonne. Auf kurzen Skalen sind die Änderungen der Erdumlaufbahn periodisch mit Intervallen von 25 000 bis 400 000 Jahren: dies sind die Milankovic-Zyklen. Insbesondere treten Vergletscherungen auf, je größer die Neigung der Erdachse ist. \nDas Verständnis des vergangenen Klimas ist unerlässlich, um das zukünftige Klima der Erde vorhersagen zu können.",
+      "links": "http://mpe.dimacs.rutgers.edu/2013/06/05/earths-climate-at-the-age-of-the-dinosaurs/"
+    },
+    "collective_motion": {
+      "title": "Schwarmverhalten",
+      "body": "Wer war nicht schon einmal von der Bewegung eines Vogel- oder Fischschwarms fasziniert? Es ist möglich, mathematische Modelle zu entwerfen, die kollektive Bewegungen beschreiben. Das Verhalten jedes Einzelnen gehorcht einfachen Regeln, die seine Interaktion mit einer bestimmten Anzahl von Nachbarn regeln. Diese Regeln sind dreierlei Art: Abstoßung, wenn man einem Individuum sehr nahe ist, Anziehung, wenn man sich von seinen Nachbarn entfernt, und Ausrichtung auf die Nachbarn dazwischen. Das Verständnis der kollektiven Bewegung ist wichtig, um Insekteninvasionen zu kontrollieren.",
+      "links": "http://mpe.dimacs.rutgers.edu/2013/08/30/the-unreasonable-effectiveness-of-collective-animal-behavior/"
+    },
+    "fractals_nature": {
+      "title": "Fraktale und Natur",
+      "body": "Um die komplizierten Formen der Natur zu beschreiben, brauchen wir eine neue Geometrie, die Fraktalgeometrie. Die fraktalen Objekte haben Selbstähnlichkeitseigenschaften, d.h. wenn man Teile vergrößert, sieht man neue Details, die dem ursprünglichen Objekt ähneln. Die fraktale Geometrie ist geeignet, viele Formen der Natur zu beschreiben, von Wolken und Galaxien bis zu den Felsenküsten, den Netzwerken von Flüssen, den Schneeflocken und vielen Pflanzen, von Farnen bis zum Romanesco-Kohl. Die fraktalen Objekte haben eine Dimension, die keine ganze Zahl ist.",
+      "links": "http://blog.kleinproject.org/?p=306"
+    },
+    "digital_music": {
+      "title": "Digitale Musik",
+      "body": "Musik besteht aus Schallwellen, die in unseren Ohren schwingen. Diese Schallwellen können als Zahlenfolgen auf einer CD gespeichert werden, indem in kurzen Zeitintervallen - normalerweise 44100 Mal pro Sekunde - Tonstücke entnommen werden.\n\nSchallwellen kombinieren viele verschiedene Wellen mit unterschiedlichen Frequenzen, von denen allerdings nicht alle von unseren Ohren wahrgenommen werden können. Mit der Fourier-Transformation können wir eine komplexe Schallwelle in viele einfache aufteilen. Audioformate wie MP3 behalten nur die hörbaren Frequenzen bei, wodurch die Dateien viel kleiner werden. Ohne Mathematik gäbe es keine iPods, Spotify oder iTunes.",
+      "links": "https://de.wikipedia.org/wiki/Digitalaudio\nwww.mathscareers.org.uk/article/how-mp3-compression-work"
+    },
+    "computer_games": {
+      "title": "Computerspiele",
+      "body": "Viele Computerspiele verwenden 3D-Grafiken. Um diese zu bewegen und zu animieren sowie Farben, Licht und Schatten zu rendern, sind Vektoren, Matrizen und viele andere Konzepte aus der linearen Algebra und der 3D-Geometrie erforderlich.\n\nComputerspiele müssen auch realistische Animationen von Wasser oder sich bewegenden und kollidierenden physischen Objekten erstellen. Sie verwenden häufig numerische Lösungen für die entsprechenden partiellen Differentialgleichungen, z. B. die Navier-Stokes-Gleichungen zur Modellierung von Flüssigkeiten.\n\nAuch Künstliche Intelligenz wird in Computerspielen verwendet, um das Verhalten von computergesteuerten Figuren zu modellieren.",
+      "links": "www.mathscareers.org.uk/video/advancing-the-digital-arts/\nwww.mathscareers.org.uk/article/get-game/\nnrich.maths.org/1374"
+    },
+    "carbon_dating": {
+      "title": "Radiokarbonmethode",
+      "body": "Jedes Lebewesen sammelt das Element Kohlenstoff an. Kohlenstoff besteht aus verschiedenen Isotopen, ein sehr geringer Anteil davon ist radioaktiv (Kohlenstoff-14). Sobald eine Pflanze oder ein Tier stirbt, hört der Organismus auf Kohlenstoff-14 aufzunehmen und seine vorhandenen Atome beginnen einen stetigen Verfallsprozess. Wissenschaftler*innen können das noch vorhandene Kohlenstoff-14 der Organismen analysieren, um den Todeszeitpunkt zu berechnen. Das ist in der Archäologie sehr nützlich, da die Radiokarbonmethode das Jahrhundert oder sogar das Jahrzehnt abschätzen kann, in dem ein Gegenstand aus tierischen oder pflanzlichen Materialien (wie Kleidung oder Papier) hergestellt wurde.",
+      "links": "https://de.wikipedia.org/wiki/Radiokarbonmethode"
+    },
+    "search_for_alien_life": {
+      "title": "Suche nach außerirdischem Leben",
+      "body": "Primzahlen sind die universellen Bausteine, aus denen Zahlen gemacht sind - und das nicht nur auf der Erde, sondern überall im Universum. Wenn Funksignale aus dem Weltraum die Folge von Primzahlen enthalten - 2, 3, 5, 7, 11, 13, ... -, könnten sie auf einen nicht natürlichen Ursprung hinweisen und der Ausgangspunkt für die Kommunikation mit dem fremden Leben sein.\n\nDie berühmte Arecibo-Botschaft, die von der Erde ins All gesendet wird, besteht aus einer langen Kette von Nullen und Einsen. Die Länge der Nachricht ergibt sich aus zwei Primzahlen, 23 × 73 = 1679, die außerirdische Astronomen veranlassen sollen, die Nullen und Einsen zu einem rechteckigen Bild mit den Seiten 23 und 73 zusammenzusetzen.",
+      "links": "www.seti.org/seti-institute/project/details/early-seti-project-ozma-arecibo-message\nen.wikipedia.org/wiki/Communication_with_extraterrestrial_intelligence\nxkcd.com/384/"
+    },
+    "big_data": {
+      "title": "Big Data",
+      "body": "Daten sind überall um uns herum, und jedes Mal, wenn wir im Internet surfen, eine Umfrage durchführen oder einkaufen gehen, werden neue Daten erstellt. Wissenschaftler*innen sammeln Daten, wenn sie ein Experiment durchführen, und manchmal sind diese Datensätze so groß, dass sie ganz neue Technologien erfinden müssen, um sie zu verarbeiten.\n\nUm Daten zu verstehen, benötigen wir Statistik. Mithilfe der Mathematik können wir eine große Menge von Zahlen - die alle für sich genommen bedeutungslos sind - in sehr genaue Informationen über das System umwandeln, das die Daten erstellt hat. Statistik kann uns auch sagen, ob bestimmte Ergebnisse gültig oder signifikant sind.",
+      "links": "en.wikipedia.org/wiki/Big_data\nen.wikipedia.org/wiki/Statistics\nwww.mathscareers.org.uk/article/statistically-savvy/"
+    },
+    "predict_weather": {
+      "title": "Wettervorhersage",
+      "body": "Es ist eine unglaublich schwierige Aufgabe, das Wetter vorherzusagen, selbst für größere Netzwerke von Wetterstationen, Satelliten und Supercomputer.\n\nIn der Atmosphäre existieren Flüssigkeiten, die nach den Gesetzen der Navier-Stokes-Gleichungen funktionieren. Wir können diese Gleichungen nicht direkt lösen, sondern verwenden numerische Simulationen, um Vorhersagen zu produzieren.\n\nSelbst die kleinsten Veränderngen und Abweichungen in den ermittelten Daten können einen großen Einfluss auf diese Vorhersagen haben. Das macht es unmöglich, Wettervorhersagen auch nur einige Wochen im Voraus zu erstellen, doch die Modelle verbessern sich stetig...",
+      "links": "https://www.metoffice.gov.uk/weather/learn-about/how-forecasts-are-made/computer-models/history-of-numerical-weather-prediction\nhttp://plus.maths.org/content/os/latestnews/sep-dec04/nwp/index\nhttp://www.mathscareers.org.uk/article/keep-weather-eye/\nhttp://www.mathscareers.org.uk/article/measuring-the-weather/"
+    },
+    "cosmology": {
+      "title": "Kosmologie",
+      "body": "Die Kosmologie erstellt Modelle über die Entwicklung des Universums vom Urknall bis heute und sagt seine Zukunft voraus. Unser Universum dehnt sich rasch weiter aus. Diese Expansionsrate folgt den Friedmann-Gleichungen, die sich aus Albert Einsteins Feldgleichungen über die Gravitation ableiten lassen. Das Schicksal des Universums hängt von der Menge der Materie (= Energie) im Universum ab; astronomische Beobachtungen legen die Existenz der Dunklen Materie und der Dunklen Energie nahe. Supercomputer werden auch verwendet, um ein Modell des Universums kurz nach dem Urknall zu entwerfen. Dies scheint heute vielleicht nicht „nützlich“ zu sein, könnte aber in Zukunft eine praktische Anwendung finden…",
+      "links": "https://de.wikipedia.org/wiki/Kosmologie\nmap.gsfc.nasa.gov/universe/\nwww.damtp.cam.ac.uk/research/gr/public/"
+    },
+    "reading_cd": {
+      "title": "CDs und DVDs lesen",
+      "body": "CDs und DVDs speichern Daten als eine Reihe von mikroskopisch kleinen „Hügeln“ und „Tälern“, die in die Oberfläche der Discs eingraviert sind. Kratzer und Staub können die Gravur zerstören, sodass auf einer leicht zerkratzten CD Informationen fehlen können. Glücklicherweise werden Daten mit Reed-Solomon-Codes auf Discs gespeichert. Denn diese Methode fügt einige überflüssige Informationen hinzu, sodass Computer die verbleibenden Daten zum Suchen und Korrigieren von Fehlern verwenden können. Dies funktioniert allerdings nur, wenn ein kleiner Teil der Daten fehlt. Eine vollständig zerkratzte CD bleibt so noch immer unlesbar. Kreuzverschachtelte Reed-Solomon-Codes, die für CDs und DVDs verwendet werden, basieren auf Polynomen über endlichen Körpern.",
+      "links": "https://de.wikipedia.org/wiki/Compact_Disc#Physische_Formate"
+    },
+    "rsa": {
+      "title": "RSA-Kryptosystem",
+      "body": "Mathematik wird zur Absicherung der Internetkommunikation eingesetzt, von E-Mails bis zur Online-Verwendung von Kreditkarten. Dazu verwendet der empfangende Computer zwei sehr große Primzahlen und veröffentlicht deren Produkt. Der sendende Computer verwendet dieses Produkt, um die Nachricht zu verschlüsseln und an empfangenden Computer zu senden. Um rückwärts zu gehen und die Nachricht zu entschlüsseln, werden die beiden ursprünglichen Primzahlen benötigt. Es ist äußerst schwierig, sehr große Zahlen zu faktorisieren, sodass nur der Empfangende die Nachricht lesen kann, da er die beiden ursprünglichen Primzahlen kennt. Dies ist die Grundlage des RSA-Protokolls, benannt nach seinen Erfindern Rivest, Shamir und Adleman.",
+      "links": "https://de.wikipedia.org/wiki/RSA-Kryptosystem\nplus.maths.org/content/safety-numbers\nmathigon.org/course/divisibility"
+    },
+    "gps": {
+      "title": "Navigation von Satelliten",
+      "body": "Navigationssysteme wie GPS verwenden Signale von Satelliten, die sehr präzise Zeiten ermitteln, um jeden möglichen Standort auf der Erde zu bestimmen. Indem ein Computer die Verspätungen misst, kann er die Entfernung zum Satelliten berechnen und in Kenntnis der Entfernung von mehreren Satelliten die genaue Position der Empfängerin oder des Empfängers auf der Erde ermitteln. Für eine möglichst genaue Angabe müssen viele physikalische Probleme berücksichtigt werden. Nach der Relativitätstheorie vergeht die Zeit für verschiedene Beobachter*innen unterschiedlich. Der Effekt ist winzig und im Alltag nicht erkennbar, er muss allerdings berüchtigt werden, sonst würden GPS-Empfänger einen Fehler von 10 km pro Tag machen!",
+      "links": "www.math.tamu.edu/~dallen/physics/gps/gps.htm\nwww.mathscareers.org.uk/article/get-lost/"
+    },
+    "rockets": {
+      "title": "Raketen und Satelliten",
+      "body": "Die Luft- und Raumfahrtindustrie hat viele Herausforderungen. Um in den Weltraum zu gelangen, benötigen Raketen Treibstoff für die nötige Schubkraft. Mehr Treibstoff macht eine Rakete stärker, aber es macht sie auch schwerer, obwohl das Gewicht des Treibstoffs beim Verbrennen abnimmt... Die Tsiolkovsky-Raketengleichung legt diese Einschränkungen fest. Die Bewegung von Raketen und Satelliten im Weltraum wird durch die Schwerkraft bestimmt. Die Flugbahnen hingegen werden durch Differentialgleichungen und sphärische Geometrie beschrieben. Kommunikationen im Weltraum verursachen Probleme durch Rauschen, Entfernung, Unzuverlässigkeit... mathematische Codes helfen dabei, die Daten ohne Beschädigung zu übertragen. Das ist keine Weltraumzauberei, das ist Mathematik!",
+      "links": "https://de.wikipedia.org/wiki/Raketengrundgleichung\n\nhttps://de.wikipedia.org/wiki/Fehlerkorrekturverfahren#Hybridverfahren_aus_Modulation_und_Fehlererkennung/-korrektur"
+    },
+    "finance_banking": {
+      "title": "Finanz- und Bankwesen",
+      "body": "In der Finanzmathematik können Händler*innen Aktien eines Unternehmens sowie Rohstoffe wie Öl und Gold oder Derivate kaufen oder verkaufen. Dies sind „virtuelle“ Waren, deren Preise sich aus der Veränderung anderer Dinge ergeben.\nFinanzanalyst*innen verfügen über viele verschiedene mathematische Hilfsmittel, mit denen sie bessere Entscheidungen treffen können, z. B. statistische Modelle zur Analyse historischer Wirtschaftsdaten oder Wahrscheinlichkeitsrechnung und Stochastische Analyse zur Vorhersage des Verhaltens von Finanzmärkten.",
+      "links": "plus.maths.org/content/what-financial-mathematics\nhttps://www.mathscareers.org.uk/article/randomness-stock-market/\nhttps://www.mathscareers.org.uk/article/selling-the-future/"
+    },
+    "internet_phones": {
+      "title": "Internet und Telephone",
+      "body": "Sowohl Internet- als auch Telefonleitungen bilden ein gigantisches Netzwerk, über das Benutzer*innen Daten austauschen. Alle Benutzer*innen sind durch unzählige Links verbunden, die eine bestimmte Kapazität haben. Netzbetreiber*innen müssen einen Weg finden, um Sender*innen und Empfänger*innen zu verbinden, ohne die Kapazität einer einzelnen Verbindung zu überschreiten.\n\nUm einen zuverlässigen Dienst für Telefonanrufe zu gewährleisten, werden die Mathematik der Warteschlangentheorie und mathematische Modelle unter Verwendung von Poisson-Prozessen verwendet.\n\nFür Internetverbindungen wird die Methode der Paketvermittlung verwendet: Alle Daten werden in kleine \"Pakete\" aufgeteilt, die unabhängig voneinander übertragen werden.",
+      "links": "www.ams.org/notices/199808/paxson.pdf\nblog.wolfram.com/2013/03/21/the-mathematics-of-queues/\nhttps://de.wikipedia.org/wiki/Paketvermittlung\nmathigon.org/course/graph-theory"
+    },
+    "gambling_betting": {
+      "title": "Glücks- und Wettspiele",
+      "body": "Wettspiel ist immer eine schlechte Idee - Casinobetreiber*innen und Buchmacher*innen kennen sich mit der Mathematik hinter ihren Spielen aus und können die Gewinnchancen so einstellen, dass immer sie selbst es sind, die langfristig gewinnen.\n\nAuch wenn es unmöglich ist, Wahrscheinlichkeitsrechnung zu verwenden, um den nächsten Würfelwurf oder Rouletteziffer vorauszusagen, kann man durchaus vorhersagen, was in den nächsten 1000 Mal würfeln passiert. Das nennt man das Gesetz der großen Zahlen. Selbst eine Gewinnchance von 49% gibt dem \"Haus\" bereits Vorteil genug für den eigenen Profit.",
+      "links": "mathigon.org/course/probability\nen.wikipedia.org/wiki/Gambling_mathematics\nhttp://news.bbc.co.uk/2/hi/programmes/more_or_less/8062277.stm\nhttps://plus.maths.org/content/understanding-uncertainty-football-crazy"
+    },
+    "search_engines": {
+      "title": "Suchmaschinen",
+      "body": "Täglich nutzen Milliarden Menschen das Internet, zum Beispiel über Suchmaschinen wie Google.\n\nUm die nützlichsten Websites zu finden und sie oben anzuzeigen, stellt Google alle Seiten im Internet in einer riesigen Matrix dar. Mithilfe der linearen Algebra, der Wahrscheinlichkeitsrechnung und der Graphentheorie werden die beliebtesten Websites ermittelt.\n\nGoogle nutzt Mathematik für viele andere seiner Dienste: Routenberechnung in Google Maps, Spam-Erkennung in Google Mail, Spracherkennung in Android, Texterkennung beim Scannen von Büchern, Komprimieren von YouTube-Videos, Erkennen von Gesichtern in Bildern oder Übersetzen von Text.",
+      "links": "www.ams.org/samplings/feature-column/fcarc-pagerank\nhttp://static.googleusercontent.com/media/research.google.com/en//pubs/archive/38331.pdf"
+    },
+    "enigma": {
+      "title": "Die Enigma-Maschine knacken",
+      "body": "Während des Zweiten Weltkriegs benutzte das deutsche Militär die Enigma-Maschine, um geheime Nachrichten zu verschlüsseln.\n\nWenn man Texte mit der Enigma-Maschine verschlüsselt, werden die Buchstaben des Alphabets mithilfe von von Rotoren mehrfach \"gescrambled\". Gibt man einen Buchstaben ein, bewegen sich diese Rotoren, sodass das nächste Mal alle Buchstaben unterschiedlich gescrambled werden. Enigma-Maschinen können mithilfe anderer Funktionen geheime Nachrichten in bis zu 150 Billionen Weisen codieren.\n\nTrotzdem gelang es dem britischen Mathematiker Alan Turing, die Enigma-Maschine zu knacken, indem er einen der ersten Computer baute, die er \"die Bombe\" taufte.",
+      "links": "https://de.wikipedia.org/wiki/Enigma_(Maschine)\nplus.maths.org/content/exploring-enigma"
+    },
+    "air_traffic": {
+      "title": "Luftverkehr",
+      "body": "Jeden Tag finden rund 50.000 kommerzielle Flüge statt. Alle Flugzeuge, das ganze Gepäck, die Besatzung und alle Passagiere müssen zur richtigen Zeit am richtigen Ort sein. Ganz besonders wichtig ist, dass Flugzeuge nicht abstürzen, wenn sie an einem der stark frequentierten Flughäfen ankommen. Dies ist eine unglaublich komplexe logistische Herausforderung, die ohne Mathematik und Operations Research nicht bewältigen ist.\n\nDarüber hinaus möchten Fluggesellschaften Geld sparen, indem sie ein effizienteres Netzwerk schaffen, in dem die Flugzeuge die bestmöglichen Strecken zurücklegen und in dem die Flugzeuge niemals im Leerlauf, leer oder außer Betrieb sind. So etwas können Algorithmen der Graphentheorie bewerkstelligen.",
+      "links": "https://www.mathscareers.org.uk/article/aircraft-scheduling/\nhttps://mathigon.org/course/graph-theory/introduction"
+    },
+    "wildfire_modelling": {
+      "title": "Modelle von Bruschbränden erstellen",
+      "body": "Buschfeuer sind ein natürlicher Bestandteil vieler Ökosysteme, können allerdings für den Menschen sehr gefährlich sein. Feuerwehrleute können mithilfe mathematischer Simulationen den Fortgang des Feuers modellieren und vorhersagen. Diese Simulationen müssen sich ändernde Vegetationen, Hitze, Feuchtigkeit, Wind, Hügel sowie unterschiedliche Sauerstoffversorgung berücksichtigen. Das erfordert fortgeschrittene Mathematik und Fluiddynamik.",
+      "links": "www.mathscareers.org.uk/article/line-fire/\nwww.fs.fed.us/pnw/pubs/journals/pnw_2004_costa001.pdf"
+    },
+    "mri_tomography": {
+      "title": "MRT und Tomographie",
+      "body": "MRT-Scanner erstellen dreidimensionale Bilder des menschlichen Körpers, indem sie unzählige zweidimensionale „Schnappschüsse“ aus verschiedenen Richtungen aufnehmen. Das Wiederherstellen des ursprünglichen dreidimensionalen Modells mithilfe dieser Schnappschüsse bezeichnet man als Tomographie. Ohne fortgeschrittene mathematische Methoden wie die Radon-Transformationen wäre das nicht möglich. Mathematik rettet buchstäblich Leben.",
+      "links": "https://plus.maths.org/content/saving-lives-mathematics-tomography\nhttps://www.mathscareers.org.uk/article/medical-imaging-mathematics/"
+    },
+    "glacier_melting": {
+      "title": "Das Schmelzen der Gletscher",
+      "body": "Das Schmelzen der polaren Eiskappen wirkt sich auf den globalen Meeresspiegel und das Klima aus.\n\nLeider liefern Satellitenbilder nur begrenzte Informationen über den Zustand des gesamten Eisschilds und klären auch nicht die Prozesse auf, die dem Schmelzen zugrunde liegen. Mithilfe von Wahrscheinlichkeitsrechnung und Statistik können Umweltdaten analysiert werden, wie die Dicke und die Zusammensetzung des Eises.\n\nMathematische Modelle unter Verwendung von Differentialgleichungen und Thermodynamik helfen, die Wechselwirkung von Wind, Meereis, Meeresströmungen und Wärmeübertragung zu verstehen.",
+      "links": "https://plus.maths.org/content/maths-and-climate-change-melting-arctic\nhttp://www.ams.org/notices/200905/tx090500562p.pdf\nhttps://www.mathscareers.org.uk/article/taking-earths-temperature/\nhttps://imaginary.org/program/future-of-glaciers-the-module"
+    },
+    "rollercoaster": {
+      "title": "Das Design von Achterbahnen",
+      "body": "Achterbahnen entwerfen, ist nicht einfach: Sie müssen aufregend, aber nicht zu zackig sein; sie müssen schnell sein, aber auch Bremsungen erlauben - vor allem müssen sie aber sicher sein.\n\nMathematik kann die Kräfte berechnen, die auf Achterbahnzügen wirken, wenn diese an Dynamik gewinnen und zeigen, wie robust die Konstruktionen der Achterbahn sein müssen. Mit mathematischen Gleichungen und Berechnungen kann auch die Form von glatten Spuren berechnet werden, einschließlich der Schleifen, der Windungen und vieler anderer Merkmale.",
+      "links": "https://www.mathscareers.org.uk/article/twist-shout/\nhttps://www.maa.org/press/periodicals/loci/joma/design-of-a-thrilling-roller-coaster-introduction-to-the-project"
+    },
+    "problem_solving": {
+      "title": "Probleme lösen",
+      "body": "Die meisten Elemente auf dieser Website zeigen reale Anwendungen der Mathematik. Doch Mathematik ist schon durch ihre Tätigkeiten selbst wichtig: Sie lehrt strukturiertes Denken, logisches Denken, Abstraktion und die Fähigkeit, Ideen in einer präzisen Sprache auszudrücken.\n\nDiese Fähigkeiten sind nicht nur in den Naturwissenschaften und Ingenieurwissenschaften von großem Wert, sondern auch in allen anderen Disziplinen - ob in Politik, Journalismus, Musik und Kunst, Management, Recht oder anderswo.",
+      "links": "http://dspace.mit.edu/bitstream/handle/1721.1/5837/AIM-249.pdf"
+    },
+    "cartography": {
+      "title": "Karten der Erde",
+      "body": "Die Darstellung unserer kugelförmigen, dreidimensionalen Erde auf einer flachen, zweidimensionalen Karte ist eine Herausforderung: Unabhängig davon, wie wir eine Karte zeichnen, kommt es immer zu einer Verzerrung, Dehnung oder Zerquetschung einiger Regionen. Mapmaking versucht, je nach gewünschter Verwendung so viele Funktionen wie möglich beizubehalten. Winkel und Richtungslinien für die Navigation, die Größe von Ländern, Entfernungen zu einem Punkt usw. Es ist unmöglich, alle diese Merkmale in einer einzigen Karte darzustellen, daher müssen wir immer einen Kompromiss finden, der auch subjektive Überlegungen enthält. Mathematik hilft uns, die Welt besser zu verstehen und bessere Karten zu erstellen, um sie besser zu verstehen.",
+      "links": "https://de.wikipedia.org/wiki/Kartennetzentwurf\nhttps://imaginary.org/program/mappae-mundi"
+    }
+  }
+}
