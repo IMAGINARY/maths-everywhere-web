@@ -165,7 +165,7 @@
     },
     "air_traffic": {
       "title": "Luftverkehr",
-      "body": "Jeden Tag finden rund 50.000 kommerzielle Flüge statt. Alle Flugzeuge, das ganze Gepäck, die Besatzung und alle Passagiere müssen zur richtigen Zeit am richtigen Ort sein. Ganz besonders wichtig ist, dass Flugzeuge nicht abstürzen, wenn sie an einem der stark frequentierten Flughäfen ankommen. Dies ist eine unglaublich komplexe logistische Herausforderung, die ohne Mathematik und Operations Research nicht bewältigen ist.\n\nDarüber hinaus möchten Fluggesellschaften Geld sparen, indem sie ein effizienteres Netzwerk schaffen, in dem die Flugzeuge die bestmöglichen Strecken zurücklegen und in dem die Flugzeuge niemals im Leerlauf, leer oder außer Betrieb sind. So etwas können Algorithmen der Graphentheorie bewerkstelligen.",
+      "body": "Jeden Tag finden rund 50.000 kommerzielle Flüge statt. Alle Flugzeuge, das ganze Gepäck, die Besatzung und alle Passagiere müssen zur richtigen Zeit am richtigen Ort sein. Ganz besonders wichtig ist, dass Flugzeuge nicht abstürzen, wenn sie an einem der stark frequentierten Flughäfen ankommen. Dies ist eine unglaublich komplexe logistische Herausforderung, die ohne Mathematik und Operations Research nicht zu bewältigen ist.\n\nDarüber hinaus möchten Fluggesellschaften Geld sparen, indem sie ein effizienteres Netzwerk schaffen, in dem die Flugzeuge die bestmöglichen Strecken zurücklegen und in dem die Flugzeuge niemals im Leerlauf, leer oder außer Betrieb sind. So etwas können Algorithmen der Graphentheorie bewerkstelligen.",
       "links": "https://www.mathscareers.org.uk/article/aircraft-scheduling/\nhttps://mathigon.org/course/graph-theory/introduction"
     },
     "wildfire_modelling": {
